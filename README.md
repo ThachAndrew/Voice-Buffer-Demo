@@ -1,4 +1,5 @@
-Pins preconfigured to last stage of Instructor Mike Matera's Arduino Demo in CS11M<br>
+Video Demo:
+https://www.youtube.com/watch?v=-YyJwIVAlFo&feature=youtu.be
 
 Purpose:<br>
     -Emulate a bash-like interface that connects multiple classes. <br>
@@ -6,5 +7,8 @@ Purpose:<br>
     -Can communicate over Bluetooth Serial and Serial Monitor at the same time. <br>
      (if BT module is connected to default TX and RX) <br>
 <br>
+
+Pins preconfigured to last stage of Instructor Mike Matera's Arduino Demo in CS11M<br>
+
 Main is parseBuffer.ino
 
